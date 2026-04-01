@@ -6,5 +6,6 @@
         <li>Wireshark</li>
         <li>Python-Scapy</li>
         <li>Tshark</li>
+        <li>PyShark</li>
     </ol>
 </p>
